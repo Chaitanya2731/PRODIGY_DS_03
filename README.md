@@ -31,12 +31,15 @@ To develop a Decision Tree model to predict whether a customer will subscribe to
 
 ### 🌳 Decision Tree Visualization
 Decision tree diagram showing how the model makes predictions.
+
 <img width="1182" height="790" alt="download" src="https://github.com/user-attachments/assets/926ac73b-1a41-48a6-b354-c5b41362c954" />
 
 ### 📊 Confusion Matrix
 Matrix displaying correct and incorrect predictions.
+
 <img width="510" height="393" alt="download" src="https://github.com/user-attachments/assets/a166b2ff-c54e-456d-83b8-265ce83f186c" />
 
 ### 📈 Accuracy Output
 Accuracy score used to evaluate model performance.
+
 <img width="730" height="465" alt="image" src="https://github.com/user-attachments/assets/3ddb0b92-17a0-4a4a-858a-a32a5cbaf6db" />
